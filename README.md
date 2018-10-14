@@ -2,6 +2,7 @@
 顶部滑动菜单，类似网易新闻、今日头条
 
 效果图：
+
 ![image](https://github.com/cc5201991/CCSlider/blob/master/CCSlider1.gif)
 ![image](https://github.com/cc5201991/CCSlider/blob/master/CCSlider2.gif)
 
